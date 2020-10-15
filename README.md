@@ -31,11 +31,11 @@ A api roda na porta ````2222```` por padrão,
 exemplo ````http://localhost:2222/api````.
 
 ### EndPoints Exemp
-````localhost:2222/api/livros?page=3````  -GET
-````localhost:2222/api/search?buscar=cho```` -GET
-````localhost:2222/api/search-supero?Busca=cho```` -GET
-````localhost:2222/api/livros/8c6aa65e-39aa-4271-a1ad-055923825ed1```` -GET
-````localhost:2222/api/livros/8c6aa65e-39aa-4271-a1ad-055923825ed1```` -DELETE
++ ````localhost:2222/api/livros?page=3````  -GET
++ ````localhost:2222/api/search?buscar=cho```` -GET
++ ````localhost:2222/api/search-supero?Busca=cho```` -GET
++ ````localhost:2222/api/livros/8c6aa65e-39aa-4271-a1ad-055923825ed1```` -GET
++ ````localhost:2222/api/livros/8c6aa65e-39aa-4271-a1ad-055923825ed1```` -DELETE
 
 
 ### Author
